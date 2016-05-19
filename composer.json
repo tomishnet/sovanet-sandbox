@@ -2,12 +2,15 @@
     "name": "sovanet/sandbox",
     "description": "This is a basic skeleton for Sovanet web projects, based on Nette Framework.",
     "homepage": "http://www.sovanet.cz",
+    "keywords": ["sovanet","sandbox"],
     "type": "project",
     "license": ["GPL-3.0"],
     "authors": [
         {
             "name": "Peter Holop",
-            "homepage": "http://www.sovanet.cz"
+            "homepage": "http://www.sovanet.cz",
+            "email": "holop@sovanet.cz",
+            "role": "Developer"
         }
     ],
     "require": {
