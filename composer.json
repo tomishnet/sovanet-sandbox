@@ -4,6 +4,7 @@
     "homepage": "http://www.sovanet.cz",
     "type": "project",
     "version": "1.0.0",
+    "minimum-stability": "dev",
     "license": ["GPL-3.0"],
     "authors": [
         {
