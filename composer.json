@@ -3,7 +3,6 @@
     "description": "This is a basic skeleton for Sovanet web projects, based on Nette Framework.",
     "homepage": "http://www.sovanet.cz",
     "type": "project",
-    "version": "1.0.0",
     "license": ["GPL-3.0"],
     "authors": [
         {
